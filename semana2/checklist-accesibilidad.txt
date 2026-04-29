@@ -1,7 +1,7 @@
 Checklist de accesibilidad – Formulario Participa
 
 Nombre del estudiante: A L G M
-Fecha:27 DE ABRILDE 2026
+Fecha:28 DE ABRIL DE 2026
 Nombre de la rama: ALM
 
 1. ¿El formulario tiene un título claro?
